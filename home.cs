@@ -28,5 +28,7 @@ namespace PetitPlannerIntegrador
             formPrincipal.Show();
             this.Hide();
         }
+
+        
     }
 }
