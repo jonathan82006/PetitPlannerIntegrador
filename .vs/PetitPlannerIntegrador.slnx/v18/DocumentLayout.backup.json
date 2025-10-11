@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\jonat\\source\\repos\\petitplannerintegrador\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\jonat\\source\\repos\\petitplannerintegrador\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\jonat\\source\\repos\\petitplannerintegrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\jonat\\source\\repos\\petitplannerintegrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\jonat\\source\\repos\\petitplannerintegrador\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22B16CAC-3232-4B91-9428-C8D01E8983EC}|PetitPlannerIntegrador.csproj|C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{22B16CAC-3232-4B91-9428-C8D01E8983EC}|PetitPlannerIntegrador.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\jonat\\source\\repos\\petitplannerintegrador\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\jonat\\source\\repos\\petitplannerintegrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22B16CAC-3232-4B91-9428-C8D01E8983EC}|PetitPlannerIntegrador.csproj|C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,52 +55,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "home.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\home.cs",
+              "RelativeDocumentMoniker": "home.cs",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\home.cs",
+              "RelativeToolTip": "home.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:18:57.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T17:25:04.837Z",
+              "WhenOpened": "2025-10-11T18:18:50.828Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T16:27:24.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T16:59:57.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "home.cs",
-              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\home.cs",
-              "RelativeDocumentMoniker": "home.cs",
-              "ToolTip": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\home.cs",
-              "RelativeToolTip": "home.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T20:34:34.988Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,6 +90,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\home.cs",
+              "RelativeDocumentMoniker": "home.cs",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\home.cs [Design]",
+              "RelativeToolTip": "home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:18:47.553Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\home.cs",
@@ -126,6 +113,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:27:24.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Form1.resx",
               "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.resx",
@@ -133,7 +133,8 @@
               "ToolTip": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.resx",
               "RelativeToolTip": "Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-10-10T16:35:47.522Z"
+              "WhenOpened": "2025-10-10T16:35:47.522Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
