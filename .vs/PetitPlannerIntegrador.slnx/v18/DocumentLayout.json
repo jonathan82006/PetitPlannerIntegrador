@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\jonat\\source\\repos\\petitplannerintegrador\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\jonat\\source\\repos\\petitplannerintegrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\jonat\\source\\repos\\petitplannerintegrador\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -98,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\Users\\jonat\\source\\repos\\PetitPlannerIntegrador\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwGcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-11T18:23:18.241Z",
               "EditorCaption": ""
@@ -119,8 +119,7 @@
               "RelativeToolTip": "home.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T18:23:23.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T18:23:23.559Z"
             },
             {
               "$type": "Document",
@@ -143,8 +142,7 @@
               "RelativeToolTip": "home.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T18:18:57.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T18:18:57.169Z"
             },
             {
               "$type": "Document",
@@ -179,8 +177,7 @@
               "RelativeToolTip": "app.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-10T16:40:29.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T16:40:29.524Z"
             },
             {
               "$type": "Document",
