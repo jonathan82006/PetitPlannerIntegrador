@@ -50,7 +50,7 @@
             button2.Name = "button2";
             button2.Size = new Size(150, 27);
             button2.TabIndex = 1;
-            button2.Text = "Create account";
+            button2.Text = "Create accounttt";
             button2.UseVisualStyleBackColor = true;
             // 
             // home
