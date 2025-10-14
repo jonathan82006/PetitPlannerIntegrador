@@ -29,6 +29,11 @@ namespace PetitPlannerIntegrador
             this.Hide();
         }
 
-        
+        private void button2_Click(object sender, EventArgs e)
+        {
+            CreateAccount formPrincipal = new CreateAccount(); // Usa Form1 en lugar de "home"
+            formPrincipal.Show();
+            this.Hide();
+        }
     }
 }

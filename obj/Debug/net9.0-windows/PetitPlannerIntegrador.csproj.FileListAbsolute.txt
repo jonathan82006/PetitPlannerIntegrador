@@ -21,3 +21,5 @@ C:\Users\jonat\source\repos\PetitPlannerIntegrador\bin\Debug\net9.0-windows\Micr
 C:\Users\jonat\source\repos\PetitPlannerIntegrador\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\jonat\source\repos\PetitPlannerIntegrador\bin\Debug\net9.0-windows\MySqlConnector.dll
 C:\Users\jonat\source\repos\PetitPlannerIntegrador\obj\Debug\net9.0-windows\PetitPlannerIntegrador.home.resources
+C:\Users\jonat\source\repos\PetitPlannerIntegrador\obj\Debug\net9.0-windows\PetitPlannerIntegrador.CreateAccount.resources
+C:\Users\jonat\source\repos\PetitPlannerIntegrador\obj\Debug\net9.0-windows\PetitPlannerIntegrador.sourcelink.json

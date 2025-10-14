@@ -10,7 +10,6 @@ namespace PetitPlannerIntegrador
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // Asumiendo que tienes TextBox para usuario y contraseña
             string usuario = textBoxUsuario.Text;
             string password = textBoxPassword.Text;
 
@@ -34,7 +33,7 @@ namespace PetitPlannerIntegrador
 
                     MySqlCommand command = new MySqlCommand(query, connection);
                     command.Parameters.AddWithValue("@usuario", usuario);
-                    command.Parameters.AddWithValue("@password", password); // En producción, usa hash!
+                    command.Parameters.AddWithValue("@password", password);
 
                     int count = Convert.ToInt32(command.ExecuteScalar());
 

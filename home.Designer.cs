@@ -34,10 +34,10 @@
             // 
             // button1
             // 
-            button1.Location = new Point(236, 126);
-            button1.Margin = new Padding(2, 2, 2, 2);
+            button1.Location = new Point(295, 158);
+            button1.Margin = new Padding(2);
             button1.Name = "button1";
-            button1.Size = new Size(150, 27);
+            button1.Size = new Size(188, 34);
             button1.TabIndex = 0;
             button1.Text = "Log in";
             button1.UseVisualStyleBackColor = true;
@@ -45,22 +45,23 @@
             // 
             // button2
             // 
-            button2.Location = new Point(236, 178);
-            button2.Margin = new Padding(2, 2, 2, 2);
+            button2.Location = new Point(295, 222);
+            button2.Margin = new Padding(2);
             button2.Name = "button2";
-            button2.Size = new Size(150, 27);
+            button2.Size = new Size(188, 34);
             button2.TabIndex = 1;
             button2.Text = "Create accounttt";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // home
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(640, 360);
+            ClientSize = new Size(800, 450);
             Controls.Add(button2);
             Controls.Add(button1);
-            Margin = new Padding(2, 2, 2, 2);
+            Margin = new Padding(2);
             Name = "home";
             Text = "home";
             Load += home_Load;
