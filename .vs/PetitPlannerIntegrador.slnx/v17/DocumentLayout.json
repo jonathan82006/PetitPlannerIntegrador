@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\anapi\\source\\repos\\jonathan82006\\petitplannerintegrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\anapi\\source\\repos\\jonathan82006\\petitplannerintegrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\anapi\\source\\repos\\jonathan82006\\petitplannerintegrador\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\anapi\\source\\repos\\jonathan82006\\petitplannerintegrador\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\anapi\\source\\repos\\jonathan82006\\petitplannerintegrador\\createaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:createaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|c:\\users\\anapi\\source\\repos\\jonathan82006\\petitplannerintegrador\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD1BADA0-B78F-085F-C7E4-FAC00770E8B5}|PetitPlannerIntegrador.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:58:09.264Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAkwJsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:30:17.556Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAEwFUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:52:51.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateAccount.cs",
+              "DocumentMoniker": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "CreateAccount.cs",
+              "ToolTip": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\CreateAccount.cs",
+              "RelativeToolTip": "CreateAccount.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:41:55.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateAccount.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\CreateAccount.Designer.cs",
+              "RelativeDocumentMoniker": "CreateAccount.Designer.cs",
+              "ToolTip": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\CreateAccount.Designer.cs",
+              "RelativeToolTip": "CreateAccount.Designer.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwGcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:12:23.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateAccount.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "CreateAccount.cs",
+              "ToolTip": "C:\\Users\\anapi\\source\\repos\\jonathan82006\\PetitPlannerIntegrador\\CreateAccount.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CreateAccount.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:08:18.84Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

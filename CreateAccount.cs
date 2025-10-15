@@ -65,9 +65,9 @@ namespace PetitPlannerIntegrador
                 return;
             }
 
-          
 
-        string query = @"INSERT INTO usuarios (user, password, email) 
+
+            string query = @"INSERT INTO usuarios (user, password, email) 
                         VALUES (@usuario,@password, @gmail )";
 
             try
@@ -113,6 +113,11 @@ namespace PetitPlannerIntegrador
             {
                 MessageBox.Show($"❌ Error: {ex.Message}");
             }
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

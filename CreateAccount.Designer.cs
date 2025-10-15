@@ -35,6 +35,7 @@
             textBoxUsuario = new TextBox();
             textBoxPassword = new TextBox();
             textBoxGmail = new TextBox();
+            panel1 = new Panel();
             SuspendLayout();
             // 
             // create
@@ -95,6 +96,14 @@
             textBoxGmail.Size = new Size(174, 31);
             textBoxGmail.TabIndex = 6;
             // 
+            // panel1
+            // 
+            panel1.Location = new Point(232, 50);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(370, 341);
+            panel1.TabIndex = 7;
+            panel1.Paint += panel1_Paint;
+            // 
             // CreateAccount
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -107,6 +116,7 @@
             Controls.Add(password);
             Controls.Add(user);
             Controls.Add(create);
+            Controls.Add(panel1);
             Name = "CreateAccount";
             Text = "CreateAccount";
             ResumeLayout(false);
@@ -122,5 +132,6 @@
         private TextBox textBoxUsuario;
         private TextBox textBoxPassword;
         private TextBox textBoxGmail;
+        private Panel panel1;
     }
 }
