@@ -1,1 +1,20 @@
-*.vs
+    # Ignore build output folders
+    bin/
+    obj/
+
+    # Ignore Visual Studio solution user options
+    *.suo
+    *.user
+
+    # Ignore Visual Studio temporary files
+    .vs/
+
+    # Ignore package folders
+    packages/
+
+    # Ignore compiled C# files
+    *.dll
+    *.exe
+
+    # Ignore local settings files
+    appsettings.Development.json
