@@ -1,4 +1,5 @@
-﻿using MySqlConnector;
+﻿using Microsoft.VisualBasic.ApplicationServices;
+using MySqlConnector;
 namespace PetitPlannerIntegrador
 {
     public partial class Form1 : Form
@@ -10,6 +11,7 @@ namespace PetitPlannerIntegrador
 
         private void button1_Click(object sender, EventArgs e)
         {
+
             string usuario = textBoxUsuario.Text;
             string password = textBoxPassword.Text;
 
@@ -32,13 +34,34 @@ namespace PetitPlannerIntegrador
                     string query = "SELECT COUNT(*) FROM usuarios WHERE user = @usuario AND password = @password";
 
                     MySqlCommand command = new MySqlCommand(query, connection);
+
+                    string userId = "";
                     command.Parameters.AddWithValue("@usuario", usuario);
                     command.Parameters.AddWithValue("@password", password);
+
+                    string get_idx = "SELECT id_user FROM usuarios WHERE usuario = @user";
+                    MySqlCommand get_id = new MySqlCommand(get_idx, connection);
+
+                    object id = command.ExecuteScalar();
+
+                    if (id != null && id != DBNull.Value)
+                    {
+                        userId = id.ToString();
+                    }
+
+                    get_id.Parameters.AddWithValue("@password", password);
+
+
+                    command.Parameters.AddWithValue("@user", usuario);
+
 
                     int count = Convert.ToInt32(command.ExecuteScalar());
 
                     if (count > 0)
                     {
+                        MessageBox.Show(userId);
+
+
                         // Aquí abres el siguiente formulario
                         //home formPrincipal = new home();
                         //formPrincipal.Show();      // Muestra el nuevo formulario

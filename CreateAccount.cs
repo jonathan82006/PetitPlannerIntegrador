@@ -25,7 +25,6 @@ namespace PetitPlannerIntegrador
             if (string.IsNullOrWhiteSpace(email))
                 return false;
 
-            // Patrón regex para validar emails
             string patron = @"^[^@\s]+@[^@\s]+\.[^@\s]+$";
             return Regex.IsMatch(email, patron, RegexOptions.IgnoreCase);
         }
