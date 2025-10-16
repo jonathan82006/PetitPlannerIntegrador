@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetitPlannerIntegrador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+645f5332337933e24a97e2172b1ac851860734b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e93997b3829f0c3b3337e2d39b79c725375da5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetitPlannerIntegrador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetitPlannerIntegrador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
